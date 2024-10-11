@@ -1,0 +1,195 @@
+[
+    {
+        "name": "Emerald House",
+        "category": "Historical Site",
+        "city": "Yekaterinburg",
+        "state": "Sverdlovsk",
+        "id": 3001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Historical Center",
+        "coordinates": {
+            "longitude": 60.6063888889,
+            "latitude": 56.8388888889
+        },
+        "description": "The Sevastianov House, also known as Emerald House, is an architectural landmark with Neo-Baroque and Gothic styles. It served various purposes, from housing the Ural Labor Commissariat to hosting international events.",
+        "imageName": "emeraldhouse"
+    },
+    {
+        "name": "Taganay",
+        "category": "National Park",
+        "city": "Zlatoust",
+        "state": "Chelyabinsk",
+        "id": 3002,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Taganay National Park",
+        "coordinates": {
+            "longitude": 59.8511,
+            "latitude": 55.2883
+        },
+        "description": "Taganay National Park, located in the Southern Urals, is known for its mountainous terrain, diverse flora, and breathtaking views. It's a favorite destination for hikers and nature enthusiasts.",
+        "imageName": "taganaypark"
+    },
+    {
+        "name": "Valday",
+        "category": "Nature Reserve",
+        "city": "Valday",
+        "state": "Novgorod",
+        "id": 3003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Valdaysky National Park",
+        "coordinates": {
+            "longitude": 33.2736,
+            "latitude": 57.9825
+        },
+        "description": "The Valday Hills are home to the Valdaysky National Park, offering serene lakes and rolling hills. The area is celebrated for its natural beauty and cultural significance.",
+        "imageName": "valdayhills"
+    },
+    {
+        "name": "Baikal",
+        "category": "Natural Wonder",
+        "city": "Irkutsk",
+        "state": "Irkutsk",
+        "id": 3004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Lake Baikal National Park",
+        "coordinates": {
+            "longitude": 108.1868,
+            "latitude": 53.5587
+        },
+        "description": "Lake Baikal is the world's deepest freshwater lake and a UNESCO World Heritage Site. Known for its crystal-clear water, it's one of Russia's most iconic natural landmarks.",
+        "imageName": "baikallake"
+    },
+    {
+        "name": "Elbrus",
+        "category": "Mountain",
+        "city": "Kabardino-Balkaria",
+        "state": "Caucasus",
+        "id": 3005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Elbrus National Park",
+        "coordinates": {
+            "longitude": 42.4392,
+            "latitude": 43.3499
+        },
+        "description": "Mount Elbrus is the highest mountain in Europe and a part of the Caucasus Mountain Range. It is a popular destination for climbers from all over the world.",
+        "imageName": "elbrus"
+    },
+    {
+        "name": "Pillars",
+        "category": "Nature Reserve",
+        "city": "Krasnoyarsk",
+        "state": "Krasnoyarsk",
+        "id": 3006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Krasnoyarsk Stolby National Park",
+        "coordinates": {
+            "longitude": 92.7647,
+            "latitude": 55.9958
+        },
+        "description": "Krasnoyarsk Stolby National Park is known for its unique rock formations, scenic vistas, and dense forests. It's a popular destination for rock climbers and nature lovers.",
+        "imageName": "pillars"
+    },
+    {
+        "name": "Spit",
+        "category": "National Park",
+        "city": "Kaliningrad",
+        "state": "Kaliningrad",
+        "id": 3007,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Kurshskaya Kosa National Park",
+        "coordinates": {
+            "longitude": 20.9053,
+            "latitude": 55.154
+        },
+        "description": "Kurshskaya Kosa (Curonian Spit) is a UNESCO World Heritage Site, known for its sand dunes, pine forests, and rich biodiversity. The park spans both Russia and Lithuania.",
+        "imageName": "spit"
+    },
+    {
+        "name": "Volga",
+        "category": "Rivers",
+        "city": "Astrakhan",
+        "state": "Astrakhan",
+        "id": 3008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Volga River Region",
+        "coordinates": {
+            "longitude": 48.0,
+            "latitude": 46.0
+        },
+        "description": "The Volga River is the longest river in Europe, flowing through central Russia and into the Caspian Sea. It's historically significant for trade and culture.",
+        "imageName": "volgariver"
+    },
+    {
+        "name": "Vysotsky",
+        "category": "Buildings",
+        "city": "Yekaterinburg",
+        "state": "Sverdlovsk",
+        "id": 3009,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Downtown",
+        "coordinates": {
+            "longitude": 60.6125,
+            "latitude": 56.8337
+        },
+        "description": "The Vysotsky skyscraper is a modern architectural landmark and one of the tallest buildings in Yekaterinburg, offering panoramic views of the city.",
+        "imageName": "vysotskyskyscraper"
+    },
+    {
+        "name": "QWERTY",
+        "category": "Art",
+        "city": "Yekaterinburg",
+        "state": "Sverdlovsk",
+        "id": 3010,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Keyboard Park",
+        "coordinates": {
+            "longitude": 60.6087,
+            "latitude": 56.8394
+        },
+        "description": "The QWERTY Monument is a large sculpture representing a traditional computer keyboard, symbolizing the importance of IT and technology in the city.",
+        "imageName": "qwerty"
+    },
+    {
+        "name": "Plotinka",
+        "category": "Historical Site",
+        "city": "Yekaterinburg",
+        "state": "Sverdlovsk",
+        "id": 3011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "City Center",
+        "coordinates": {
+            "longitude": 60.6048,
+            "latitude": 56.8421
+        },
+        "description": "Plotinka is the historic dam that gave rise to Yekaterinburg's industrial development. It is a popular location for locals and tourists alike.",
+        "imageName": "plotinka"
+    },
+    {
+        "name": "Bloody Church",
+        "category": "Historical Site",
+        "city": "Yekaterinburg",
+        "state": "Sverdlovsk Oblast",
+        "id": 3012,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Historical Center",
+        "coordinates": {
+            "longitude": 60.6057,
+            "latitude": 56.8401
+        },
+        "description": "The Church on the Blood in Honour of All Saints Resplendent in the Russian Land is a Russian Orthodox church built on the site of the Ipatiev House, where Tsar Nicholas II and his family were executed.",
+        "imageName": "churchontheblood"
+    }
+
+]
